@@ -1,0 +1,21 @@
+PROYECTO LITE - MARCELO DELLAGUSTINA - ENTREGA FINAL
+
+Descripción del proyecto:
+
+La idea era hacer un sitio web para un proyecto de MOD de un videojuego. Empecé el proyecto por mi cuenta para el curso de Coder House y al ver que el sitio iba mejorando decidí ofrecérselos, a ellos les gusto la idea, hicimos como una especie de "entrevista con el cliente" y cambie ciertas partes del sitio para cumplir sus necesidades. Dentro de poco esperamos contratar un hosting y subir correctamente el sitio para poder publicitar el proyecto.
+
+Diseño del sitio web:
+
+El sitio consta de 6 páginas (Home, FAQ, Features, Showcase, Files, Help Us). Decidí aplicar bootstrap para la mayoría del proyecto porque me pareció un buen framework para seguir un estándar en el diseño, aunque aplique mi impronta en ciertas partes del sitio para darle un estilo diferente. Aplique GRID en el layout de la página para determinar el tamaño que ocupa el header, body y footer, esto me ayudo a que el footer siempre vaya hasta el fondo sin importar la resolución, aplique FLEX en el footer para acomodar los elementos de una manera sencilla y que de esa manera fueran responsivo. Todo el diseño está hecho en SASS, esto me ayudo bastante para organizar el sitio, si bien aplique mixin, maps y variables me di cuenta de que al ser un proyecto chico no los iba a usar tanto, así que trate de aplicarlo más a manera de ejemplo. Aplique algunos media queries para asegurarme de que el sitio fuera responsivo en su mayoría, pero con bootstrap se me facilito bastante el trabajo.
+
+Cambios para mejorar SEO:
+
+Se agregaron etiquetas "meta" en el "Head" (description, keywords, author).
+Se agregaron etiquetas "title" para iconos y videos para mejorar accesibilidad.
+Se agregaron descripción a las imágenes mediante el atributo "alt".
+Se redujo el peso de las imágenes para mayor rendimiento del sitio.
+Se agregó un archivo "sitemap.xml" para ayudar a indexar mejor el sitio.
+
+Agradecimiento: 
+
+Muchas gracias por todo lo que nos enseñaste Diego, y no solo en la materia, sino también a nivel personal a partir de tu experiencia profesional, demostraste durante todo el curso que esto no es solo un trabajo para vos, sino que es tu vocación por enseñar. ¡Espero poder seguir creciendo en este mundo, te deseo lo mejor y espero tener profesores tan buenos como vos en el futuro, abrazo grande!
